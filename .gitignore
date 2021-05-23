@@ -1,0 +1,11 @@
+*.class
+*.log
+*.retry
+*.swp
+project/project
+project/build.properties
+project/target
+target
+*.jar
+devscripts
+lib_managed
